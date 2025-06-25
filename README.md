@@ -1,2 +1,2 @@
 # CODINGSAMURAI
-Tasks for Coding Samurai Internship Program (Batch A-40)
+Tasks and projects completed for the Coding Samurai Internship (Batch A-40)
